@@ -4,7 +4,7 @@
 ![logo](https://github.com/mumal885/Car-Game/blob/main/car%20game.png)
 # Car-Game
 This Car-Game is coded in C++ and uses C++ file handling concepts.
-Shop Billing System is about 255 lines code and is a mini project.
+Car-Game is about 255 lines code and is a mini project.
 
 ## Getting Started
 
